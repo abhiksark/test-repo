@@ -1,0 +1,3 @@
+[merge "ours"]
+	name = \"always keep ours\" merge driver
+	driver = touch %A
